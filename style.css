@@ -79,10 +79,11 @@ button:hover {
 
 #imagem-passar {
   width: 100%;
-  height: auto;
+  height: 340px; 
+  object-fit: cover;
   display: block;
   margin: 0 auto 16px;
-  transition: opacity 0.7s ease, transform 0.9s cubic-bezier(0.4, 2, 0.6, 1);
+  transition: opacity 0.7s ease, transform 0.7s cubic-bezier(.4,2,.6,1);
   opacity: 1;
   transform: scale(1);
 }
