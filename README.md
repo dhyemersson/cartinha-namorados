@@ -1,29 +1,45 @@
-# 💖 cartinhapranaiih.tk - Uma Surpresa de Dia dos Namorados
+# 💖 Cartinha pra Naiih – Uma Surpresa de Dia dos Namorados
 
-Este projeto é uma homenagem especial para o Dia dos Namorados, feita com muito amor, carinho e linhas de código para a Naiih.  
-Um mini site com visual suave, música tocando ao fundo, imagens marcantes e uma carta que expressa sentimentos verdadeiros — tudo pensado para emocionar.  
+🔗 [Acesse o site aqui!](https://cartinhapranaiih.netlify.app)
+
+Este projeto é uma homenagem especial feita com muito amor, carinho e código para a Naiih, em comemoração ao Dia dos Namorados.
+
+É um mini site com visual suave, música tocando ao fundo, imagens marcantes e uma carta que expressa sentimentos verdadeiros — tudo pensado pra emocionar 💌
+
+---
+
+## 🌟 Prévia do site
+
+> *(Aqui você pode incluir prints do site em funcionamento. Suba as imagens na pasta `src/img` ou use links externos)*
+
+### Tela de boas-vindas com digitação animada:
+![Tela de boas-vindas](src/img/preview-boas-vindas.png)
+
+### Cartinha com música e galeria de fotos:
+![Cartinha com música](src/img/preview-cartinha-musica.png)
 
 ---
 
 ## ✨ Funcionalidades
 
-- 📝 **Carta romântica animada** com efeito de digitação e transição suave.
-- 🎵 **Música de fundo** (Ma Meilleure Ennemie - Stromae & Pomme).
-- 🖼️ **Galeria de fotos** que alterna automaticamente com efeitos visuais.
-- ⏳ **Contador de tempo juntos**, calculando desde 26/10/2017 às 22h.
-- 📱 **Responsivo**: se adapta bem para celular, tablet e desktop.
-- 🎨 **Visual personalizado** com tipografia romântica, cores suaves e detalhes pensados com carinho.
+- 💌 **Carta romântica animada** com efeito de digitação e transição suave
+- 🎵 **Música de fundo**: Stromae + Pomme – *Ma Meilleure Ennemie*
+- 🖼️ **Galeria de fotos** com transição automática a cada 3 segundos
+- ⏳ **Contador de tempo juntos**, desde 26/10/2017 às 22h
+- 📱 **Layout responsivo** (funciona bem em celular, tablet e desktop)
+- 🌸 **Visual personalizado** com cores suaves, fontes românticas e animações
 
 ---
 
-## 💡 Como foi feito
+## 🛠️ Como foi feito
 
-- **HTML5**: estrutura básica da página  
-- **CSS3**: estilização, animações e responsividade  
-- **JavaScript (Vanilla)**: interações, troca de imagens, controle de áudio e contador de tempo juntos  
-- **Fonte**: [Dancing Script](https://fonts.google.com/specimen/Dancing+Script) do Google Fonts  
+- **HTML5** – Estrutura da página
+- **CSS3** – Estilização, animações e responsividade
+- **JavaScript (Vanilla)** – Interações, controle de áudio, galeria e contador de tempo
+- **Fonte:** [Dancing Script](https://fonts.google.com/specimen/Dancing+Script) – Google Fonts
 
 ---
+
 
 ## 📁 Estrutura do Projeto
 
@@ -40,3 +56,18 @@ Um mini site com visual suave, música tocando ao fundo, imagens marcantes e uma
 │   │   └── ... até img11.jpg
 │   └── music/
 │       └── Stromae, Pomme - Ma Meilleure Ennemie.mp3
+
+
+---
+
+## 🎁 Dedicatória
+
+> “Porque o amor mora nos detalhes... e nos códigos também.”  
+> Feito com todo carinho por **Dhyemersson Costa** para Naiih 💘
+
+---
+
+## 🕊️ Licença
+
+Projeto pessoal e sem fins comerciais.  
+Pode servir de inspiração para outras homenagens digitais 💝
